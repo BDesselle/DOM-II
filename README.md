@@ -1,3 +1,24 @@
+# My Event Listeners
+
+- `wheel up`
+  - remove navbar darkmode
+- `wheel down`
+
+  - add navbar darkmode
+
+- `dblclick`
+  - double click picture to enter fullscreen
+- `onkeyup`
+
+  - exit picture fullscreen
+
+- `mouseover enter`
+
+  - **add** `hover` class to navbar logo
+
+- `mouseover leave`
+  - **removes** `hover` class to navbar logo
+
 # DOM II - Event Exploration
 
   
