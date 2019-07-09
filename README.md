@@ -2,12 +2,14 @@
 
 - `wheel up`
   - remove navbar darkmode
+
 - `wheel down`
 
   - add navbar darkmode
 
 - `dblclick`
   - double click picture to enter fullscreen
+
 - `onkeyup`
 
   - exit picture fullscreen
