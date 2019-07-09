@@ -1,4 +1,3 @@
-// # Logo Toggle Active Class
 logo = document.getElementsByClassName('logo-heading')[0];
 
 toggleClass = {
@@ -9,10 +8,6 @@ toggleClass = {
     el.classList.remove(val);
   },
 };
-
-// footer = document
-//   .getElementsByClassName("footer")[0]
-//   .getElementsByTagName("p")[0].innerText;
 
 function showCopyright(val) {
   alert(val);
