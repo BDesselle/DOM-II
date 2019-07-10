@@ -1,3 +1,4 @@
+/* eslint-disable */
 logo = document.getElementsByClassName('logo-heading')[0];
 
 toggleClass = {
